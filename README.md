@@ -12,3 +12,5 @@ DINO approach we basically deal with the Attention Mechanism which helps us to
 overcome the contrastive learning approach.In this context, we propose to optimize the
 process of categorization of data by applying attention to self-supervised learning
 methods.
+
+![Blank diagram](https://user-images.githubusercontent.com/47130991/126540978-c58262a8-2c2c-43b2-9fef-cb1eaebc5fa1.png)
